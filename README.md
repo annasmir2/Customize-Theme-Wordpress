@@ -1,1 +1,1 @@
-
+This repository contains the source code for a custom WordPress theme that I developed. The theme is a simple, yet elegant, design that can be used for a variety of websites. The theme is fully responsive and is compatible with the latest versions of WordPress.
